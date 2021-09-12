@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Suuu..Bham here!!</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> Suuu..Bham here!!</h1>
 <h3 align="center">Coder | Contributor | learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamengine&label=Profile%20views&color=0e75b6&style=flat" alt="subhamengine" /> </p>
