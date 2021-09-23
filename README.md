@@ -92,7 +92,12 @@
   <a href="mailto:subhamengine@gmail.com">
     <img align="left" alt="Subham Sharma | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-  
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhamengine&show_icons=true&locale=en&layout=compact" alt="subhamengine" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamengine&show_icons=true&locale=en" alt="subhamengine" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamengine&" alt="subhamengine" /></p>
   
   
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="subham sharma Jha | Linkedin" width="34">](https://in.linkedin.com/in/subhamengine) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/delta231_/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315)
