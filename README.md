@@ -28,7 +28,7 @@
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** *Not so funny* 😴
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamengine&label=Profile%20views&color=0e75b6&style=flat" alt="subhamengine" /> </p>
 <br>
 
 
