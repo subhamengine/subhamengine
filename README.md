@@ -49,8 +49,10 @@
 -->
 
 <br>
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <br>
 
