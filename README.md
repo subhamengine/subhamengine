@@ -1,37 +1,3 @@
-# Subham sharma&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
-
-<!-- 
-    &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
--->
-
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-<p>
-  <em>
-    I am a 2nd Year undergraduate from <a href="https://aecwb.edu.in/"> <b>Asansol Engineering College</b>, Asansol</a>.  
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>code     Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-  </em>  
-</p>
-
-<br>
-
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently learning* **Data Structures and Algo**👨‍💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m *open to collaborate* on **Open Source programs**.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** *Not so funny* 😴
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamengine&label=Profile%20views&color=0e75b6&style=flat" alt="subhamengine" /> </p>
-<br>
-
-
 <table>
 <tr>
 <td>
